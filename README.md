@@ -12,7 +12,7 @@
 - [Custom Login](https://github.com/Kharg/custom-login) - Custom Login Background Extension for EspoCRM
 - [Copy Lead Notes](https://github.com/Kharg/copy-lead-notes) - Extension to copy Lead stream notes to the converted entity (Account/Contact/Opportunity).
   
-### Forked Extensons Updated
+### Forked Extensions Updated
 
 - [Dynamic Checklist](https://github.com/Kharg/dynamic-checklist-for-espocrm) - Custom field which allows to dynamically create a checklist inside any EspoCRM entity
 - [Confirm Varchar Field](https://github.com/Kharg/confirm-varchar-field-for-espocrm) - Varchar type field that requires double input to verify that the content is correct
