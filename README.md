@@ -11,6 +11,7 @@
 - [Advanced Settings](https://github.com/Kharg/advanced-settings) - Advanced Settings for EspoCRM.
 - [Custom Login](https://github.com/Kharg/custom-login) - Custom Login Background Extension for EspoCRM
 - [Copy Lead Notes](https://github.com/Kharg/copy-lead-notes) - Extension to copy Lead stream notes to the converted entity (Account/Contact/Opportunity).
+- [Change Password Nav Menu](https://github.com/Kharg/change-password-nav-menu) - Extension that makes it easier to change your own password.
   
 ### Forked Extensions Updated
 
