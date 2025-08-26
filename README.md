@@ -2,6 +2,7 @@
 
 - [Download All Attachments](https://github.com/Kharg/download-all-attachments) - Download all the attachments from an attachment multiple field in EspoCRM.
 - [Link Button](https://github.com/Kharg/link-button) - Button field for EspoCRM
+- [Progress Tracker](https://github.com/Kharg/progress-tracker) - Progress Tracker field for EspoCRM
 - [RSS Dashlet](https://github.com/Kharg/rss-dashlet) - RSS Dashlet for EspoCRM
 - [Manual Scheduled Job](https://github.com/Kharg/manual-scheduled-job) - Run EspoCRM Scheduled Jobs Manually
 - [Last Viewed Dashlet](https://github.com/Kharg/last-viewed-dashlet) - Last Viewed Dashlet Extension for EspoCRM
