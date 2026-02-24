@@ -19,3 +19,4 @@
 
 - [Dynamic Checklist](https://github.com/Kharg/dynamic-checklist-for-espocrm) - Custom field which allows to dynamically create a checklist inside any EspoCRM entity
 - [Confirm Varchar Field](https://github.com/Kharg/confirm-varchar-field-for-espocrm) - Varchar type field that requires double input to verify that the content is correct
+- [Email Combined View](https://github.com/Kharg/espocrm-email-preview-extension) - Quickly view e-mails in a compact combined view
