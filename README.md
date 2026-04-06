@@ -14,7 +14,8 @@
 - [Custom Login](https://github.com/Kharg/custom-login) - Custom Login Background Extension for EspoCRM
 - [Copy Lead Notes](https://github.com/Kharg/copy-lead-notes) - Extension to copy Lead stream notes to the converted entity (Account/Contact/Opportunity).
 - [Change Password Nav Menu](https://github.com/Kharg/change-password-nav-menu) - Extension that makes it easier to change your own password.
-  
+- [Email Panel](https://github.com/Kharg/change-password-nav-menu) - Extension that adds a navbar item that shows the latest inbox emails.
+- 
 ### Forked Extensions Updated
 
 - [Dynamic Checklist](https://github.com/Kharg/dynamic-checklist-for-espocrm) - Custom field which allows to dynamically create a checklist inside any EspoCRM entity
